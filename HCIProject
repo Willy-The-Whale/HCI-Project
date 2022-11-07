@@ -1,0 +1,20 @@
+//Human computer interaction project
+/* Objective:
+Identify the Gross Pay of an individual on Unigram Language Model by Corpus Cross
+Entropy
+
+Implementation (10 points)
+Create C++ (or other programing language) program(s) to complete the following tasks.
+– (1 points) Get raid of rows which contains ’?’ in the data set.
+– (3 points) Assign an arbitrary code to each of the attributes for all xm ∈ x .
+– (6 points) Divided the data set into two parts ( 70% vs. 30% ) randomly. Do the following tasks.
+• (3 points) On the 70% data set
+∗ Determine the # of occurrences for each of the attributes.
+∗ Determine the probability of an attribute for the class ’> 50k’ by using MLE algorithm.
+∗ Determine the probability of an attribute for the class ’<= 50k’ by using MLE algorithm.
+• (3 points) Test your design on 30 % data.
+∗ Pretend you don’t have the class information for each of the data instances
+∗ Use the Corpus Cross Entropy method to compute the entropy for each of the instance
+∗ Assign an instance to a class label ∈ {> 50k, ≤ 50k} of which has the lower entropy value.
+∗ Evaluate your system by the following accuracy measurement.
+*/
